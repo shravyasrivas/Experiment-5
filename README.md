@@ -1,7 +1,7 @@
 
 ---
 
-# Experiment: Study of Dictionaries In Python
+# Experiment 5: Study of Dictionaries In Python
 
 ---
 
@@ -10,6 +10,43 @@
 ---
 
 ### Algorithms
+
+
+---
+
+#### Algorithm for Problem Statement 1:
+
+Step 1: Start.
+
+Step 2: Create a dictionary that stores product names as keys and their prices as values.
+
+Step 3: Select the product whose price needs to be updated.
+
+Step 4: Update the price of the selected product using the key.
+
+Step 5: Display the updated dictionary.
+
+Step 6: Stop.
+
+---
+
+#### Algorithm for Problem Statement 2:
+
+Step 1: Start.
+
+Step 2: Create a dictionary that stores student names as keys and their marks as values.
+
+Step 3: Accept the student name from the user using the input command.
+
+Step 4: Search for the entered name in the dictionary using the `get()` method.
+
+Step 5: If the student name is found, display the corresponding marks.
+
+Step 6: If the student name is not found, display the message "Student not found".
+
+Step 7: Stop.
+
+---
 
 #### Algorithm for Problem Statement 3:
 
