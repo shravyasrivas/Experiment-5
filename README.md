@@ -12,7 +12,7 @@
 ### Algorithms
 
 
----
+
 
 #### Algorithm for Problem Statement 1:
 
